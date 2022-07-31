@@ -1,0 +1,19 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = angry-pig
+
+[physics]
+gravity_y = -500.0
+scale = 0.02
+
+[input]
+game_binding = /builtins/input/all.input_bindingc
+
